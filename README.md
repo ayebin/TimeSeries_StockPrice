@@ -6,7 +6,7 @@
 - Detecting and managing outliers: IQR, Winsorizing, Z-score, Quantile Clipping
 - Standardization & Logarithm Transform: Applied differently depending on the feature
 - 1st Differencing
-- Additional steps: One-Hot Encoding, Decomposing, Correlation, PCA
+- Additional steps: One-Hot Encoding, Decomposing, Correlation, PCA      
 ➡️ Fully processed Data with 43 features
 
 
@@ -21,7 +21,7 @@
 We conducted Experiments only with LSTM and Transformer because other models showed poor performance. 
 - Before Outlier Detection + Feature Selection
 - Before Outlier Detection + Scaling + Feature Selection 
-- Fully Processed Data + Feature selection
+- Fully Processed Data + Feature selection    
 ➡️ Best was **3rd option with LSTM model**
 
 
